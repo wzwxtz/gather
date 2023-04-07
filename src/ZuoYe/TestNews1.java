@@ -13,7 +13,7 @@ public class TestNews1 {
 
         //将新闻对象存入HashSet集合中
         HashSet hashSet = new HashSet();
-        //hashSet.add(news1);
+        hashSet.add(news1);
         hashSet.add(news2);
         hashSet.add(news3);
         hashSet.add(news4);
